@@ -1,0 +1,10 @@
+Thông tin thành viên nhóm 
+
+Nguyễn Hoàng Đăng 3121560027  
+Hoàng Nam 3120560062
+Ngô Nguyễn Thành Nguyên 3120560067
+Nguyễn Văn Thành 3121560084
+
+
+Tài khoản nhân viên: 1    Mật khẩu: 3
+Tài khoản quản lý : 3  Mật khẩu 3
